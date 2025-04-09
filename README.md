@@ -1,19 +1,17 @@
-# Hola Mundo en Python / Hello World in Python
+# Hello World in Python
 
-## Descripción / Description
-
-Este es un proyecto básico que imprime "Hola, mundo" en la consola utilizando el lenguaje de programación Python.
+## Description
 
 This is a basic project that prints "Hello, world" to the console using the Python programming language.
 
-##  Requisitos / Requirements
+## Requirements
 
-- Python 3.x instalado en tu sistema / Python 3.x installed on your system
+- Python 3.x installed on your system
 
-## 🛠 Cómo ejecutar / How to Run
+## How to Run
 
-1. Clona este repositorio o crea un archivo llamado `hola_mundo.py`.
-2. Copia y pega el siguiente código:
+1. Clone this repository or create a file named `hello_world.py`.
+2. Copy and paste the following code:
 
 ```python
-print("Hola, mundo")
+print("Hello, world")
